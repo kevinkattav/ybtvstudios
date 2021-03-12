@@ -190,7 +190,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; by YBTV Studios 2020, Designed in collaboration with Malibia Webbers"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -199,4 +199,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; by YBTV Studios 2020, Designed in collaboration with Malibia Webbers"
