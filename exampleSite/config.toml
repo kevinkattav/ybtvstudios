@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "YoungBlak&TalentedVisionStudios"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -154,7 +154,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/YBTVLogo.jpg"
 
 # cookies
 [params.cookies]
