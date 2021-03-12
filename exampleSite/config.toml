@@ -67,12 +67,6 @@ url = "team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-
-[[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
@@ -117,12 +111,6 @@ url = "team"
 weight = 4
 
 [[Languages.fr.menu.main]]
-name = "tarification"
-pre = "#"
-url = "pricing"
-weight = 5
-
-[[Languages.fr.menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
@@ -142,7 +130,7 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/YBTVLogo.jpg"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
