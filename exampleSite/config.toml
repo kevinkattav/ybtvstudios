@@ -78,13 +78,6 @@ pre = "#"
 url = "contact"
 weight = 7
 
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
-
-
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
 name = "sur"
@@ -122,18 +115,12 @@ pre = "#"
 url = "contact"
 weight = 7
 
-[[Languages.fr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
-
 ############################# Default Parameters ##########################
 [params]
 logo = "images/YBTVLogo.jpg"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+author = "Malibia Webbers"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
