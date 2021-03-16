@@ -129,7 +129,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/favicon.ico"
+preloader = "images/YBTVLogo.jpg"
 
 # cookies
 [params.cookies]
