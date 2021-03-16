@@ -4,7 +4,7 @@ skill:
   title : Our Skills
   subtitle : 
   content : 
-  image : images/about/company-growth.webp
+  image : images/YBTVLogo.jpg
   skill_item :
     # skill item loop
     - name :  Professional Photgraphy
