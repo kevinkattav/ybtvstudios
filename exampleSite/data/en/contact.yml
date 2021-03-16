@@ -15,8 +15,8 @@ contact:
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +27 60 481 6450"
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+   # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #  info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: hello@youngbtvstudios.com"
