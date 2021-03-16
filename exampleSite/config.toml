@@ -117,7 +117,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/favicon.ico"
+logo = "images/YBTVLogo.jpg"
 # Meta data
 description = "Young, Blak and Talented Vision Studios"
 author = "Malibia Webbers"
@@ -129,7 +129,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/YBTVLogo.jpg"
+preloader = "images/favicon.png"
 
 # cookies
 [params.cookies]
