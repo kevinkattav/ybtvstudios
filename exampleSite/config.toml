@@ -117,9 +117,9 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/YBTVLogo.jpg"
+logo = "images/favicon.ico"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "Young, Blak and Talented Vision Studios"
 author = "Malibia Webbers"
 # Google Analytics
 google_analytics_id = "" # Your ID
